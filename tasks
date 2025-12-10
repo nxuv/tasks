@@ -1,3 +1,4 @@
+nvim disable treesitter if no binary | id:243039657963a5e2aae4ab32b9196a5d2fab91ad
 Rewrite fetch in C | id:2f0761a9db776a9ca06754e185701fc412c1cfb4
 Rewrite t in c/d/c++ | id:9f91628b05b32b5e9a87572b604775512ed98cb9
 Fork and patch gh dash to not use any icons | id:bacaa9ad344c62e0f8b82ef11aed996a06762585
