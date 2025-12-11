@@ -1,4 +1,5 @@
 Sync nvim and configs | id:01b78d2675ad225091ec5ebba7878598904664b6
+nvim disable treesitter if no binary | id:243039657963a5e2aae4ab32b9196a5d2fab91ad
 Add mdeval to main nvim config - copy from deimos | id:2d754eef0d3a0142bb6589a8bc893ebcbac5fab5
 Copy t funcs from termux to pc | id:31ef230a7b802d9fa6418653d42b1da786041624
 Check directvt/vtm | id:d339b07c06437b64bf82050c713d888286c67d1c
