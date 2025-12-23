@@ -1,3 +1,5 @@
+Create * comment block style | id:1b375b69b89b1a47aad3f4f2c79ac8f7ee531164
+Rewrite non-bash scripts in C | id:2b877a9e4adf8796e253a636d818611c518b96d3
 Rewrite fetch in C | id:2f0761a9db776a9ca06754e185701fc412c1cfb4
 Rewrite t in c/d/c++ | id:9f91628b05b32b5e9a87572b604775512ed98cb9
 Add clock to nvim? | id:ad642e2739da1d8bc83e36ba8fca9d65ffc9ad20
